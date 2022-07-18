@@ -3,8 +3,9 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Git Test");
-		System.out.println("git@@");
+		String name = "test";
+		char result = name.charAt(1);
+		System.out.println(result);
 	}
 
 }
